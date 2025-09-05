@@ -11,10 +11,10 @@ Cursos de Estatística LM data talents Let´s Code Completo.
 
  - Aula05_Análise bidimensional_Correlação
 
- - Aula06_Regressão Linear Simples-Equaçao Reta Coeficiente Correlação_r 
-e Coeficiente de determinação_r2
+ - Aula06_Regressão Linear, Simples-Equaçao,Reta Coeficiente Correlação (r) 
+e Coeficiente de determinação ($r^2$)
 
- - Aula07_Derivadas_Introdução a probabilidade
+ - Aula07_Derivadas e Introdução a probabilidade
 
  - Aula08_Probabilidade
 
